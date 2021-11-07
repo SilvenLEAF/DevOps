@@ -1,0 +1,27 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Learning DevOps and Github Actions",
+  "main": "app.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:SilvenLEAF/DevOps.git"
+  },
+  "keywords": [
+    "SilvenLEAF",
+    "DevOps"
+  ],
+  "author": "SilvenLEAF",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7"
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
